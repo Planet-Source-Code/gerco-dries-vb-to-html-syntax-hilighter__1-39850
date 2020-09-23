@@ -1,0 +1,20 @@
+SPAN.keyword
+{
+    color: #000088;
+}
+SPAN.comment
+{
+    color: #008800;
+}
+SPAN.string
+{
+    color: #888888;
+}
+SPAN.number
+{
+    color: #880000
+}
+SPAN.text
+{
+    color: #000000
+}
